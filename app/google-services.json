@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "390844297606",
+    "firebase_url": "https://newdemofireapp.firebaseio.com",
+    "project_id": "newdemofireapp",
+    "storage_bucket": "newdemofireapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390844297606:android:c9982557e248b3dd427c07",
+        "android_client_info": {
+          "package_name": "com.example.newdemofireapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390844297606-5qo98i76nkargtuolbirc7b54lvrf0kh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0dPLP6kRVEsyJZOy_dLRmwm_QHHGq18Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390844297606-5qo98i76nkargtuolbirc7b54lvrf0kh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
